@@ -1,4 +1,5 @@
 import "./footer.css"
+//footer insertar imagen de fondo falta
 
 const Footer = () => {
     return (
