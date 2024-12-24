@@ -1,0 +1,31 @@
+.footer {
+    width: 100%;
+    height: 150px; /* Ajusta según el diseño */
+    display: flex;
+    padding: 0 5%; /* Reduce el padding para evitar altura excesiva */
+    align-items: center;
+    box-sizing: border-box;
+    background-color: #21396d;
+    background-size: cover;
+    background-position: center;
+    justify-content: space-between;
+    color: #222121;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    overflow: hidden; /* Evita desbordes de contenido */
+}
+
+.redes img{
+    width: 70px;
+    height: 70px;
+    padding: 0px 35px;
+}
+.footer .logofooter {
+    width: 500px;
+    height: 130px;
+} 
+
+
+
+
+
